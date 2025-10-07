@@ -1,3 +1,7 @@
 Dies ist ein Home Assistant Dashboard zur Überwachung eines Seplos BMS. Die entsprechenden Sensoren müssen in Home Assistant verfügbar sein (z.B. mittels ESPHome-Integration für Seplos BMS).
+
 Die Namen der Sensoren müssen auf die eigenen Sensornamen angepasst werden - außer man verwendet meine Seplos ESPHome-Integration, dann sollte es gleich so funktionieren (nicht getestet).
-Folgende custom cards müssen über HACS zuvor installiert werden: 
+
+Folgende custom cards müssen über HACS zuvor installiert werden: Home Assistant dashboard to monitor Seplos BMS data. Requires BMS sensor data to be available in Home Assistant (e.g. via ESPHome integration). Sensor names need to be adapted to own sensor names (except when using my Seplos ESPHome integration, then it should work out of the box).
+
+Also, the following custom cards have to be installed via HACS: custom button card (https://github.com/custom-cards/button-card), apexcharts card (https://github.com/RomRider/apexcharts-card), bar card (https://github.com/custom-cards/bar-card).

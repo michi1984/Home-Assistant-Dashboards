@@ -1,0 +1,3 @@
+Dies ist ein Home Assistant Dashboard zur Überwachung eines Seplos BMS. Die entsprechenden Sensoren müssen in Home Assistant verfügbar sein (z.B. mittels ESPHome-Integration für Seplos BMS).
+Die Namen der Sensoren müssen auf die eigenen Sensornamen angepasst werden - außer man verwendet meine Seplos ESPHome-Integration, dann sollte es gleich so funktionieren (nicht getestet).
+Folgende custom cards müssen über HACS zuvor installiert werden: 
